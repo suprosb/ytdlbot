@@ -10,19 +10,19 @@
   "env": {
     "TOKEN": {
       "description": "Bot token",
-      "value": "token"
+      "value": "7678495580:AAF-2BaHfsi0OgRj5JCqrgYXVTftHbSEGWw"
     },
     "APP_ID": {
       "description": "APP ID",
-      "value": "12345"
+      "value": "22920744"
     },
     "APP_HASH": {
       "description": "APP HASH",
-      "value": "12345abc"
+      "value": "31cb93c017f265e4fa6d0ba91236b826"
     },
     "OWNER": {
       "description": "Your telegram username",
-      "value": "username",
+      "value": "@akash_roy_official",
       "required": false
     }
   },
